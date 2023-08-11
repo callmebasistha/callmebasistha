@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bigyan</h1>
-<h3 align="center">A Backend developer from NepL</h3>
+<h3 align="center">A Backend developer from</h3>
 
 - 🔭 I’m currently working on [Bolamna Chat Application](https://github.com/callmebasistha/chat_app.git)
 
