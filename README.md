@@ -49,5 +49,5 @@
 
 <br clear="both">
 
-  <img alt="snake" src="https://raw.githubusercontent.com/callmebasistha/callmebasistha/output/snake.svg">
+  //<img alt="snake" src="https://raw.githubusercontent.com/callmebasistha/callmebasistha/output/snake.svg">
 ###
